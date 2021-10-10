@@ -35,4 +35,4 @@ Below is a list of primitives supported today
 2. $events
 3. $telemetry
 
-> Read more about profiles here [Profiles explained](Magix-profiles/profiles-explained.md)
+> Read more about profiles here [Profiles explained](magix-profiles/profiles-explained.md)

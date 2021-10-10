@@ -28,7 +28,7 @@ An example of the transmitted data would be
 
 In order to process that data, we will need to create a Magix profile.
 A Magix profile is essentially code that you need to write in order to unpack the payload and extract the values in such a way that it can be 
-understood by our platform. You can read more about the primitives at this link [Profiles Explained](Magix-profiles/profiles-explained.md)
+understood by our platform. You can read more about the primitives at this link [Profiles Explained](magix-profiles/profiles-explained.md)
 
 Assuming you have previously followed the (Things Stack) deep integration and have already linked the device, 
 you should be seeing data coming into your device on the `Device Detail` page - 3 flags would be present on the `Upstream` content pane, 

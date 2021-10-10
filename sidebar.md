@@ -29,10 +29,10 @@
     - [SMS](channel-services/sms.md)
 
 - Magix profiles
-    - [Profiles explained](Magix-profiles/profiles-explained.md)
-    - [Profiles list](Magix-profiles/profiles-list.md)
-    - [Adding a profile](Magix-profiles/adding-a-profile.md)
-    - [End to end sample](Magix-profiles/end-to-end-sample.md)
+    - [Profiles explained](magix-profiles/profiles-explained.md)
+    - [Profiles list](magix-profiles/profiles-list.md)
+    - [Adding a profile](magix-profiles/adding-a-profile.md)
+    - [End to end sample](magix-profiles/end-to-end-sample.md)
 
 - Data sources
     - [Quickstart](datasources/quickstart.md)
